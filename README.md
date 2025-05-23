@@ -7,8 +7,6 @@ Bienvenido a mi perfil de GitHub. Aquí comparto proyectos personales, pruebas d
 - Normalmente uso tecnologías como **Next.js**, **Astro**, **React** y más.
 - También me gusta la producción musical y trabajar en efectos visuales.
 
-[![Spotify](https://novatorem.JsDGmzB27.vercel.app/api/spotify)](https://open.spotify.com/user/5ypht4d6jzym5tl0z1f5dxdsd)
-
 ## Lenguajes y Tecnologías
 
 ![HTML](https://img.shields.io/badge/Code-HTML-orange)
