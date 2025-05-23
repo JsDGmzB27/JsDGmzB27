@@ -7,6 +7,8 @@ Bienvenido a mi perfil de GitHub. Aquí comparto proyectos personales, pruebas d
 - Normalmente uso tecnologías como **Next.js**, **Astro**, **React** y más.
 - También me gusta la producción musical y trabajar en efectos visuales.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JsDGmzB27&show_icons=true&theme=tokyonight)
+
 ## Lenguajes y Tecnologías
 
 ![HTML](https://img.shields.io/badge/Code-HTML-orange)
