@@ -12,8 +12,10 @@ Bienvenido a mi perfil de GitHub. Aquí comparto proyectos personales, pruebas d
 ![HTML](https://img.shields.io/badge/Code-HTML-orange)
 ![CSS](https://img.shields.io/badge/Style-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue)
 ![Python](https://img.shields.io/badge/Code-Python-green)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-black)
+![React](https://img.shields.io/badge/Framework-React-lightblue)
 ![TailwindCSS](https://img.shields.io/badge/Style-TailwindCSS-38BDF8)
 ![Godot](https://img.shields.io/badge/GameEngine-Godot-478CBF)
 
