@@ -9,8 +9,8 @@ Bienvenido a mi perfil de GitHub. Aquí comparto proyectos personales, pruebas d
 
 ## Lenguajes y Tecnologías
 
-![HTML](https://img.shields.io/badge/Code-HTML-orange)|
-![CSS](https://img.shields.io/badge/Style-CSS-blue)|
+![HTML](https://img.shields.io/badge/Code-HTML-orange)
+![CSS](https://img.shields.io/badge/Style-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue)
 ![Python](https://img.shields.io/badge/Code-Python-green)
