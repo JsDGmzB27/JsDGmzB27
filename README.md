@@ -19,7 +19,7 @@ Bienvenido a mi perfil de GitHub. Aquí comparto proyectos personales, pruebas d
 
 ## Mis lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsDGmzB27&layout=compact&theme=tokyonight)
 
 ## 📫 Contacto
 
