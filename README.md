@@ -5,7 +5,7 @@ Bienvenido a mi perfil de GitHub. Aquí comparto proyectos personales, pruebas d
 ## Sobre mí
 - Desarrollador interesado en **front-end**, **back-end** y **desarrollo de videojuegos**.
 - Normalmente uso tecnologías como **Next.js**, **Astro**, **React** y más.
-- También me gusta la producción musical y trabajar en efectos visuales.
+- También me gusta la producción musical, trabajar diseño 2D y 3D.
 
 ## Lenguajes y Tecnologías
 
